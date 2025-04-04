@@ -4,3 +4,4 @@
 * lime ($1/pound)
 * salt ($2)
 ## Instructions
+* peel the avocados
